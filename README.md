@@ -1,7 +1,7 @@
 # Finance-Calculator
 Langauge: [[Python]]
 # Purposes
-In general I want to take data from yahoo finance using an [[API]]. I will then use that information to have useful tools and mathematical functions that would be important to a finance bro. 
+In general I want to take data from yahoo finance using an [[API]]. I will then use that information to have useful tools and mathematical functions that would be important to anyone in finance.
 
 ---
 # Knowledge Exhibited
